@@ -1,2 +1,2 @@
 # Skycoder
-Beggingner coder
+print ( skycoder)
